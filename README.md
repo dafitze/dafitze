@@ -1,3 +1,5 @@
+[![MasterHead](header.jph)]
+
 <div id="header" align="center">
   <img src="header.jpg"/>
 </div>
