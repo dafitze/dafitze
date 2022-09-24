@@ -12,7 +12,7 @@ hobbies: ["Running", "Aikido", "Guitar"]
 ```
 
 ### :hammer_and_wrench: Main Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
