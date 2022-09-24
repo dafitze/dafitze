@@ -11,6 +11,7 @@ current_job: PHD student
 hobbies: ["Running", "Aikido", "Guitar"]
 ```
 
+<!--
 ### :hammer_and_wrench: Main Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,6 +22,6 @@ hobbies: ["Running", "Aikido", "Guitar"]
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dafitze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
+-->
  
 
