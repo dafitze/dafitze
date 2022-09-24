@@ -1,5 +1,5 @@
-[![MasterHead](header.jph)]
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div id="header" align="center">
   <img src="header.jpg"/>
 </div>
@@ -8,11 +8,9 @@
 ### Hi there 👋
 
 ### :hammer_and_wrench: Languages and Tools :
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
+<i class="devicon-adonisjs-original-wordmark"></i>
+          
+          
 <!--
 **dafitze/dafitze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
