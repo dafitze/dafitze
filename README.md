@@ -1,4 +1,8 @@
+<div id="header" align="center">
+  <img src="dafitze/20170331_073558.JPG" width="100"/>
+</div>
 ### Hi there 👋
+
 
 <!--
 **dafitze/dafitze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
