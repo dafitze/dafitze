@@ -10,8 +10,9 @@ located_in: Bern, Switzerland
 current_job: PHD student
 hobbies: ["Running", "Aikido", "Guitar"]
 ```
-![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+<!--
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -23,7 +24,7 @@ hobbies: ["Running", "Aikido", "Guitar"]
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
-<!--
+
 ### :hammer_and_wrench: Main Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
